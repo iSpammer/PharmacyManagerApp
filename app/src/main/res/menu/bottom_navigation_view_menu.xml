@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_navigation_item_home"
+        android:icon="@drawable/ic_menu"
+        android:title="Medicine List" />
+
+    <item
+        android:id="@+id/bottom_navigation_item_repo"
+        android:icon="@drawable/ic_repo"
+        android:title="repository" />
+
+    <item
+        android:id="@+id/bottom_navigation_item_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
+
+</menu>
